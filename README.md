@@ -1,6 +1,6 @@
 # Smart Queueing System
 
-This is the second project in Intel® Edge AI for IoT Developers Nanodegree program. The project involves choosing the right the Hardware for different circumstances. This repository contins a number of Jupyter notebooks to be executed in the Intel DevCloud from udacity workspace.
+This is the second project in Intel® Edge AI for IoT Developers Nanodegree program. The project involves choosing the right the Hardware for different circumstances. This repository contains a number of Jupyter notebooks to be executed in the Intel DevCloud from a Udacity workspace.
 
 ## Main Tasks
 1. Proposing a possible hardware solution for the given circumstance.
